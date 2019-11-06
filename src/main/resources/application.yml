@@ -11,6 +11,6 @@ spring:
       server:
         git:
           uri: https://github.com/lingdi0/LEurekaConfig
-          searchPaths: src/main/resources/
+          searchPaths: config
   application:
     name: config-server
